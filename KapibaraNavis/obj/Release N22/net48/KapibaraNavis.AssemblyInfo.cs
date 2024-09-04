@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KapibaraNavis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release N22")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27de3ed9cd5625f649b64d174d24632f50f1e8a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("KapibaraNavis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KapibaraNavis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
