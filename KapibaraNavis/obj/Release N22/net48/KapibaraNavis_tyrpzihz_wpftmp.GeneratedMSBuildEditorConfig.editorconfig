@@ -1,0 +1,6 @@
+is_global = true
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property.RootNamespace = CustomTabSample
+build_property.ProjectDir = C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

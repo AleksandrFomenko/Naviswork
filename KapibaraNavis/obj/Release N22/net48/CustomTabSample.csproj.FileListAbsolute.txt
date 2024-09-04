@@ -1,0 +1,16 @@
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\obj\Release N22\net48\CustomTabSample.csproj.AssemblyReference.cache
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\obj\Release N22\net48\CustomTabSample_MarkupCompile.cache
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\obj\Release N22\net48\CustomTabSample.baml
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\obj\Release N22\net48\CustomTabSample.g.resources
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\obj\Release N22\net48\CustomTabSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\obj\Release N22\net48\CustomTabSample.AssemblyInfoInputs.cache
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\obj\Release N22\net48\CustomTabSample.AssemblyInfo.cs
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\obj\Release N22\net48\CustomTabSample.csproj.CoreCompileInputs.cache
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\bin\N22\net48\CustomTabSample.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\bin\N22\net48\CustomTabSample.pdb
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\bin\N22\net48\AdWindows.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\bin\N22\net48\Autodesk.Navisworks.Api.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\bin\N22\net48\navisworks.gui.roamer.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\obj\Release N22\net48\CustomTa.A0D9ED8D.Up2Date
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\obj\Release N22\net48\CustomTabSample.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\CustomTabSample\obj\Release N22\net48\CustomTabSample.pdb

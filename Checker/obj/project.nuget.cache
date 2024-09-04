@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "D9Jli8i8CC0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FomenkoA\\Desktop\\dev\\navis\\Checker\\Checker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FomenkoA\\.nuget\\packages\\chuongmep.navis.api.adwindows\\2022.0.6\\chuongmep.navis.api.adwindows.2022.0.6.nupkg.sha512",
+    "C:\\Users\\FomenkoA\\.nuget\\packages\\chuongmep.navis.api.autodesk.navisworks.api\\2022.0.6\\chuongmep.navis.api.autodesk.navisworks.api.2022.0.6.nupkg.sha512",
+    "C:\\Users\\FomenkoA\\.nuget\\packages\\chuongmep.navis.api.navisworks.gui.roamer\\2022.0.6\\chuongmep.navis.api.navisworks.gui.roamer.2022.0.6.nupkg.sha512",
+    "C:\\Users\\FomenkoA\\.nuget\\packages\\chuongmep.navis.api.navisworks.roamer.plugin\\2022.0.3\\chuongmep.navis.api.navisworks.roamer.plugin.2022.0.3.nupkg.sha512",
+    "C:\\Users\\FomenkoA\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.0\\communitytoolkit.mvvm.8.3.0.nupkg.sha512",
+    "C:\\Users\\FomenkoA\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\FomenkoA\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\FomenkoA\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\FomenkoA\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\FomenkoA\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\FomenkoA\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\FomenkoA\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<adwi:RibbonControl
+
+    xmlns:adwi="clr-namespace:Autodesk.Windows;assembly=AdWindows"
+    xmlns:system="clr-namespace:System;assembly=mscorlib"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Autodesk.Navisworks.Gui.Roamer.AIRLook;assembly=navisworks.gui.roamer">
+    
+    
+    <adwi:RibbonTab Id="KapibaraNavis" Title="Kapibara">
+        <adwi:RibbonPanel x:Uid="RibbonPane1_1">
+            <adwi:RibbonPanelSource x:Uid="RibbonPanelSource_RibbonPanel_1" Title="BIM">
+                <local:NWRibbonButton x:Uid="Button_1" Id="ModelChecker"
+                                        Size="Large"
+                                        ShowText="True"
+                                        Text="ModelChecker"
+                                        Orientation="Vertical"/>
+            </adwi:RibbonPanelSource>
+        </adwi:RibbonPanel>
+    </adwi:RibbonTab>
+    
+</adwi:RibbonControl>

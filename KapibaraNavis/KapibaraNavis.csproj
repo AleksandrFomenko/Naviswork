@@ -1,0 +1,100 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+    <PropertyGroup>
+        <OutputType>Library</OutputType>
+        <TargetFramework>net48</TargetFramework>
+        <UseWPF>true</UseWPF>
+        <Configurations>Debug N20;Debug N21;Debug N22;Debug N23;Debug N24;Debug N25;Release N20;Release N21;Release N22;Release N23;Release N24;Release N25</Configurations>
+        <PlatformTarget>x64</PlatformTarget>
+        <Optimize>true</Optimize>
+        <DefineConstants>TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+        <RootNamespace>CustomTabSample</RootNamespace>
+    </PropertyGroup>
+ 
+    <PropertyGroup Condition="$(Configuration.Contains('D'))">
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>full</DebugType>
+        <Optimize>false</Optimize>
+        <DefineConstants>DEBUG;TRACE</DefineConstants>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="$(Configuration.Contains('R'))">
+        <DebugType>pdbonly</DebugType>
+        <Optimize>true</Optimize>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="$(Configuration.Contains('N19'))">
+        <OutputPath>bin\N19\</OutputPath>
+        <NavisVersion>2019</NavisVersion>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="$(Configuration.Contains('N20'))">
+        <OutputPath>bin\N20\</OutputPath>
+        <NavisVersion>2020</NavisVersion>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="$(Configuration.Contains('N21'))">
+        <OutputPath>bin\N21\</OutputPath>
+        <NavisVersion>2021</NavisVersion>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="$(Configuration.Contains('N22'))">
+        <OutputPath>bin\N22\</OutputPath>
+        <NavisVersion>2022</NavisVersion>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="$(Configuration.Contains('N23'))">
+        <OutputPath>bin\N23\</OutputPath>
+        <NavisVersion>2023</NavisVersion>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="$(Configuration.Contains('N24'))">
+        <OutputPath>bin\N24\</OutputPath>
+        <NavisVersion>2024</NavisVersion>
+    </PropertyGroup>
+
+    <PropertyGroup Condition="$(Configuration.Contains('N25'))">
+        <OutputPath>bin\N25\</OutputPath>
+        <NavisVersion>2025</NavisVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Reference Include="PresentationCore" />
+        <Reference Include="PresentationFramework" />
+        <Reference Include="System" />
+        <Reference Include="System.Core" />
+        <Reference Include="System.Data" />
+        <Reference Include="System.Windows.Forms" />
+        <Reference Include="System.Xml" />
+        <Reference Include="WindowsBase" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Include="packages.config" />
+        <Folder Include="Images\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Chuongmep.Navis.Api.AdWindows" Version="$(NavisVersion).*" />
+      <PackageReference Include="Chuongmep.Navis.Api.Autodesk.Navisworks.Api" Version="$(NavisVersion).*" />
+      <PackageReference Include="Chuongmep.Navis.Api.navisworks.gui.roamer" Version="$(NavisVersion).*" />
+      <PackageReference Include="Chuongmep.Navis.Api.navisworks.roamer.plugin" Version="$(NavisVersion).*" />
+      <PackageReference Include="CommunityToolkit.Mvvm" Version="8.*" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Checker\Checker.csproj" />
+    </ItemGroup>
+
+    <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+        <Exec Command="mkdir &quot;$(UserProfile)\Desktop\CustomTabSample\$(TargetName)&quot; || exit 0" />
+        <Exec Command="xcopy /Y &quot;$(TargetDir)*.*&quot; &quot;$(UserProfile)\Desktop\CustomTabSample\$(TargetName)\&quot; || exit 0" />
+        <Exec Command="xcopy /Y &quot;$(ProjectDir)\CustomTabSample\*&quot; &quot;$(UserProfile)\Desktop\CustomTabSample\$(TargetName)\&quot; || exit 0" />
+        <Exec Command="mkdir &quot;$(UserProfile)\Desktop\CustomTabSample\$(TargetName)\en-US&quot; || exit 0" />
+        <Exec Command="xcopy /Y &quot;$(ProjectDir)\KapibaraNavis.xaml&quot; &quot;$(UserProfile)\Desktop\CustomTabSample\$(TargetName)\en-US\&quot; || exit 0" />
+        <Exec Command="mkdir &quot;$(UserProfile)\Desktop\CustomTabSample\$(TargetName)\Images&quot; || exit 0" />
+        <Exec Command="xcopy /Y &quot;$(ProjectDir)\Images\*&quot; &quot;$(UserProfile)\Desktop\CustomTabSample\$(TargetName)\Images\&quot; || exit 0" />
+    </Target>
+</Project>

@@ -1,0 +1,50 @@
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\bin\N22\net48\Checker.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\bin\N22\net48\Checker.pdb
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\bin\N22\net48\AdWindows.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\bin\N22\net48\Autodesk.Navisworks.Api.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\bin\N22\net48\navisworks.gui.roamer.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\bin\N22\net48\CommunityToolkit.Mvvm.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\bin\N22\net48\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\bin\N22\net48\System.Buffers.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\bin\N22\net48\System.ComponentModel.Annotations.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\bin\N22\net48\System.Memory.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\bin\N22\net48\System.Numerics.Vectors.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\bin\N22\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\bin\N22\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\obj\Release N22\net48\Checker.csproj.AssemblyReference.cache
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\obj\Release N22\net48\View\CheckerView.g.cs
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\obj\Release N22\net48\Checker_MarkupCompile.cache
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\obj\Release N22\net48\View\CheckerView.baml
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\obj\Release N22\net48\Checker.g.resources
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\obj\Release N22\net48\Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\obj\Release N22\net48\Checker.AssemblyInfoInputs.cache
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\obj\Release N22\net48\Checker.AssemblyInfo.cs
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\obj\Release N22\net48\Checker.csproj.CoreCompileInputs.cache
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\obj\Release N22\net48\Checker.csproj.Up2Date
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\obj\Release N22\net48\Checker.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\Checker\obj\Release N22\net48\Checker.pdb
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\bin\N22\net48\Checker.dll
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\bin\N22\net48\Checker.pdb
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\bin\N22\net48\AdWindows.dll
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\bin\N22\net48\Autodesk.Navisworks.Api.dll
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\bin\N22\net48\navisworks.gui.roamer.dll
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\bin\N22\net48\CommunityToolkit.Mvvm.dll
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\bin\N22\net48\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\bin\N22\net48\System.Buffers.dll
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\bin\N22\net48\System.ComponentModel.Annotations.dll
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\bin\N22\net48\System.Memory.dll
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\bin\N22\net48\System.Numerics.Vectors.dll
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\bin\N22\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\bin\N22\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker.csproj.AssemblyReference.cache
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\View\CheckerView.baml
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\View\CheckerView.g.cs
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker_MarkupCompile.cache
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker.g.resources
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker.AssemblyInfoInputs.cache
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker.AssemblyInfo.cs
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker.csproj.CoreCompileInputs.cache
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker.csproj.Up2Date
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker.dll
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker.pdb

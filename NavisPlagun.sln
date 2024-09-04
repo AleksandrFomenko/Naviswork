@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KapibaraNavis", "KapibaraNavis\KapibaraNavis.csproj", "{E725F974-9402-43DF-8471-DB785DC2D79F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checker", "Checker\Checker.csproj", "{B25536E3-3D75-4B33-8E0A-0A74C6D81021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		N19D|Any CPU = N19D|Any CPU
+		N20D|Any CPU = N20D|Any CPU
+		N21D|Any CPU = N21D|Any CPU
+		N22D|Any CPU = N22D|Any CPU
+		N23D|Any CPU = N23D|Any CPU
+		N24D|Any CPU = N24D|Any CPU
+		N25D|Any CPU = N25D|Any CPU
+		N19R|Any CPU = N19R|Any CPU
+		N20R|Any CPU = N20R|Any CPU
+		N21R|Any CPU = N21R|Any CPU
+		N22R|Any CPU = N22R|Any CPU
+		N23R|Any CPU = N23R|Any CPU
+		N24R|Any CPU = N24R|Any CPU
+		N25R|Any CPU = N25R|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E725F974-9402-43DF-8471-DB785DC2D79F}.N22R|Any CPU.ActiveCfg = Release N22|Any CPU
+		{E725F974-9402-43DF-8471-DB785DC2D79F}.N22R|Any CPU.Build.0 = Release N22|Any CPU
+		{E725F974-9402-43DF-8471-DB785DC2D79F}.N23D|Any CPU.ActiveCfg = Debug N23|Any CPU
+		{E725F974-9402-43DF-8471-DB785DC2D79F}.N23D|Any CPU.Build.0 = Debug N23|Any CPU
+		{E725F974-9402-43DF-8471-DB785DC2D79F}.N22D|Any CPU.ActiveCfg = Debug N22|Any CPU
+		{E725F974-9402-43DF-8471-DB785DC2D79F}.N22D|Any CPU.Build.0 = Debug N22|Any CPU
+		{B25536E3-3D75-4B33-8E0A-0A74C6D81021}.N23D|Any CPU.ActiveCfg = Debug N23|Any CPU
+		{B25536E3-3D75-4B33-8E0A-0A74C6D81021}.N23D|Any CPU.Build.0 = Debug N23|Any CPU
+		{B25536E3-3D75-4B33-8E0A-0A74C6D81021}.N22R|Any CPU.ActiveCfg = Release N22|Any CPU
+		{B25536E3-3D75-4B33-8E0A-0A74C6D81021}.N22R|Any CPU.Build.0 = Release N22|Any CPU
+		{B25536E3-3D75-4B33-8E0A-0A74C6D81021}.N22D|Any CPU.ActiveCfg = Debug N22|Any CPU
+		{B25536E3-3D75-4B33-8E0A-0A74C6D81021}.N22D|Any CPU.Build.0 = Debug N22|Any CPU
+	EndGlobalSection
+EndGlobal

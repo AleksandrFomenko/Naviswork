@@ -1,0 +1,58 @@
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\bin\N22\net48\KapibaraNavis.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\bin\N22\net48\KapibaraNavis.pdb
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\bin\N22\net48\AdWindows.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\bin\N22\net48\Autodesk.Navisworks.Api.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\bin\N22\net48\navisworks.gui.roamer.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\bin\N22\net48\CommunityToolkit.Mvvm.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\bin\N22\net48\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\bin\N22\net48\System.Buffers.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\bin\N22\net48\System.ComponentModel.Annotations.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\bin\N22\net48\System.Memory.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\bin\N22\net48\System.Numerics.Vectors.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\bin\N22\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\bin\N22\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\bin\N22\net48\Checker.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\bin\N22\net48\Checker.pdb
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.csproj.AssemblyReference.cache
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.baml
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\obj\Release N22\net48\Checker\View\CheckerView.g.cs
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\obj\Release N22\net48\KapibaraNavis_MarkupCompile.cache
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\obj\Release N22\net48\KapibaraNavis_MarkupCompile.lref
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\obj\Release N22\net48\Checker\View\CheckerView.baml
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.g.resources
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.AssemblyInfoInputs.cache
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.AssemblyInfo.cs
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.csproj.CoreCompileInputs.cache
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\obj\Release N22\net48\Kapibara.4FA1300A.Up2Date
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.dll
+C:\Users\FomenkoA\Desktop\dev\CustomTabSample\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.pdb
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.csproj.AssemblyReference.cache
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\Checker\View\CheckerView.g.cs
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\KapibaraNavis_MarkupCompile.cache
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\KapibaraNavis_MarkupCompile.lref
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.dll
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.pdb
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\bin\N22\net48\KapibaraNavis.dll
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\bin\N22\net48\KapibaraNavis.pdb
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\bin\N22\net48\AdWindows.dll
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\bin\N22\net48\Autodesk.Navisworks.Api.dll
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\bin\N22\net48\navisworks.gui.roamer.dll
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\bin\N22\net48\CommunityToolkit.Mvvm.dll
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\bin\N22\net48\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\bin\N22\net48\System.Buffers.dll
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\bin\N22\net48\System.ComponentModel.Annotations.dll
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\bin\N22\net48\System.Memory.dll
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\bin\N22\net48\System.Numerics.Vectors.dll
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\bin\N22\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\bin\N22\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\bin\N22\net48\Checker.dll
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\bin\N22\net48\Checker.pdb
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.baml
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\Checker\View\CheckerView.baml
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.g.resources
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.AssemblyInfoInputs.cache
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.AssemblyInfo.cs
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.csproj.CoreCompileInputs.cache
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\Kapibara.4FA1300A.Up2Date
