@@ -8,9 +8,9 @@ namespace Checker.App
     {
         public static void goApp()
         { 
-            CheckerModel cm = new CheckerModel();
-            CheckerVM cvm = new CheckerVM(cm);
-            CheckerView cv = new CheckerView(cvm);
+            var cm = new CheckerModel();
+            var cvm = new CheckerVM(cm);
+            var cv = new CheckerView(cvm);
             cv.ShowDialog();
         }
     }

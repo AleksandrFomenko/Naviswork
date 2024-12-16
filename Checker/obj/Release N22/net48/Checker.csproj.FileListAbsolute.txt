@@ -48,3 +48,5 @@ C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker.csproj
 C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker.csproj.Up2Date
 C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker.dll
 C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker.pdb
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker_MarkupCompile.lref
+C:\Users\FomenkoA\Desktop\dev\navis\Checker\obj\Release N22\net48\Checker.sourcelink.json

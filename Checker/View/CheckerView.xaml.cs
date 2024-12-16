@@ -5,6 +5,7 @@ namespace Checker.View
 {
     public partial class CheckerView : Window
     {
+        
         public CheckerView(CheckerVM checkerVm)
         {
             DataContext = checkerVm;

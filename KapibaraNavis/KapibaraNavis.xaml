@@ -15,6 +15,16 @@
                                         ShowText="True"
                                         Text="ModelChecker"
                                         Orientation="Vertical"/>
+                <local:NWRibbonButton x:Uid="ID_Button_1" Id="ID_Button_1"
+                                      Size="Large"
+                                      ShowText="True"
+                                      Text="Посчитать объем"
+                                      Orientation="Vertical"/>
+                <local:NWRibbonButton x:Uid="ID_Button_2" Id="ID_Button_2"
+                                      Size="Large"
+                                      ShowText="True"
+                                      Text="Посчитать площадь"
+                                      Orientation="Vertical"/>
             </adwi:RibbonPanelSource>
         </adwi:RibbonPanel>
     </adwi:RibbonTab>

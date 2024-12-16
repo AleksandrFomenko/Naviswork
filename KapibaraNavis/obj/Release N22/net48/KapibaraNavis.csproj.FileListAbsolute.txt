@@ -56,3 +56,4 @@ C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\Kapibara
 C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.AssemblyInfo.cs
 C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.csproj.CoreCompileInputs.cache
 C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\Kapibara.4FA1300A.Up2Date
+C:\Users\FomenkoA\Desktop\dev\navis\KapibaraNavis\obj\Release N22\net48\KapibaraNavis.sourcelink.json

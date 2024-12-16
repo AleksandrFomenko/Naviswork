@@ -7,6 +7,7 @@
         <Configurations>Debug N20;Debug N21;Debug N22;Debug N23;Debug N24;Debug N25;Release N20;Release N21;Release N22;Release N23;Release N24;Release N25</Configurations>
         <PlatformTarget>x64</PlatformTarget>
         <Optimize>true</Optimize>
+        <LangVersion>latest</LangVersion>
         <DefineConstants>TRACE</DefineConstants>
         <ErrorReport>prompt</ErrorReport>
         <WarningLevel>4</WarningLevel>

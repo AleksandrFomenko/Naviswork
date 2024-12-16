@@ -12,14 +12,12 @@ Global
 		N22D|Any CPU = N22D|Any CPU
 		N23D|Any CPU = N23D|Any CPU
 		N24D|Any CPU = N24D|Any CPU
-		N25D|Any CPU = N25D|Any CPU
 		N19R|Any CPU = N19R|Any CPU
 		N20R|Any CPU = N20R|Any CPU
 		N21R|Any CPU = N21R|Any CPU
 		N22R|Any CPU = N22R|Any CPU
 		N23R|Any CPU = N23R|Any CPU
 		N24R|Any CPU = N24R|Any CPU
-		N25R|Any CPU = N25R|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E725F974-9402-43DF-8471-DB785DC2D79F}.N22R|Any CPU.ActiveCfg = Release N22|Any CPU
